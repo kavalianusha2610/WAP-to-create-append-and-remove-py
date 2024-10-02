@@ -1,0 +1,9 @@
+# Create a list
+my_list = []
+# Append elements
+my_list.append('apple')
+my_list.append('banana')
+# Remove an element
+my_list.remove('apple')
+# Print the list
+print(my_list)
